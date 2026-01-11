@@ -27,3 +27,7 @@ This project is built to learn, experiment, and create something awesome 💡
 1. 📥 Clone the repository
    ```bash
    git clone https://github.com/your-username/project-name.git
+
+2. 📦 Install requirements
+   ```bash
+   pip install -r requirements.txt

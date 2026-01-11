@@ -1,1 +1,8 @@
-pyQt5
+PyQt5
+nuitka
+pyinstaller
+cx-Freeze
+py2exe; platform_system=="Windows"
+pyoxidizer
+auto-py-to-exe
+
